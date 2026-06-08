@@ -11,6 +11,7 @@
 | [videoreg/pi-videoreg](https://github.com/videoreg/pi-videoreg) | The Core: implementation of features |
 | [videoreg/rpicam-apps](https://github.com/videoreg/rpicam-apps) | Extended `rpicam-apps` with custom features |
 | [videoreg/pi-gen](https://github.com/videoreg/pi-gen) | `.img` builder: here `videoreg/rpicam-apps` are build and `videoreg/pi-videoreg` is installed on Raspberry Pi OS with a lot of tuning. |
+| [videoreg/3d-models](https://github.com/videoreg/3d-models) | Models for 3D printing |
 
 ### Where should I start?
 
